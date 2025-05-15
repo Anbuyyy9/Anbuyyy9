@@ -68,8 +68,8 @@
 
 ### 📫 Contato
 
-- 💼 [LinkedIn (em breve)](https://www.linkedin.com/in/seu-perfil)
-- ✉️ **gabriel@email.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-anthony-ab92211b5/)
+- ✉️ **anbuyyy9@gmail.com**
 - 🧠 Projetos e artigos em breve no blog pessoal!
 
 ---
