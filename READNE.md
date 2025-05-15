@@ -11,7 +11,7 @@
 ### 🚀 Sobre mim
 
 - 🔒 Apaixonado por **cibersegurança ofensiva**, com foco em **Red Team**, **pentest**, **elevação de privilégios** e **segurança em nuvem**
-- 📚 Estudo mais de **6 horas por dia**, com laboratórios práticos em **Docker**, **máquinas virtuais** e ambientes controlados
+- 📚 Estudo com laboratórios práticos em **Docker**, **máquinas virtuais** e ambientes controlados
 - 🛠️ Utilizo ferramentas como **Flipper Zero**, **ESP32**, **Burp Suite**, **Gobuster**, **Nikto**, **Linux**, **PowerShell**, **Python**, entre outras
 - 🧪 Experiência com análise de falhas, exploração de APIs, engenharia reversa leve, e captura de pacotes Wi-Fi para testes éticos
 - 🌐 Acredito que a tecnologia pode mudar vidas — e estou comprometido com essa jornada
@@ -23,7 +23,7 @@
 - ✅ **AWS Certified Cloud Practitioner**
 - ✅ **Microsoft AZ-900: Azure Fundamentals**
 - 📅 **IA-900 & AZ-204** (realizadas em abril/2025)
-- 📅 Estudando para: **AZ-204**, **GCP Associate Cloud Engineer**, **AI-102**
+- 📅 Estudando para: **AWS DEVELOPER**, **GCP Associate Cloud Engineer**, 
 - 🧨 **Curso Hackers do Bem - Especialização Red Team (80h)**  
   → Simulação de ataque completo no site *vendetudo.com* (SQLi, Docker, Escalada de privilégios)
 
@@ -75,4 +75,4 @@
 ---
 
 > 🧩 *"A curiosidade é o que me move, o aprendizado constante é o que me fortalece."*  
-> — Gabriel (Anbuyyy9)
+> — (Anbuyyy9)
