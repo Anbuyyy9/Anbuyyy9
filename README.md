@@ -23,7 +23,7 @@
 * 📅 Em estudo: **AZ-104 (Azure Admin)**, **AWS Developer Associate**, **AI-102**
 * 💥 **Curso Hackers do Bem - Especialização Red Team (80h)**
 
-  * Invasão completa do site *vendetudo.com*: SQLi, Docker, enumeração e escalada de privilégios
+  * Invasão completa de sites, SQLi, Docker, enumeração e escalada de privilégios
 
 ---
 
@@ -73,8 +73,6 @@
 ## 📢 Contato
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-anthony-ab92211b5/)
-* ✉️ **[anbuyyy9@gmail.com](mailto:anbuyyy9@gmail.com)**
-* 🤖 Em breve: blog com artigos de labs, scripts e vulnerabilidades reais simuladas
 
 ---
 
