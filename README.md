@@ -20,8 +20,7 @@
 * ✅ **Microsoft AZ-900: Azure Fundamentals**
 * ✅ **AI-900: Azure AI Fundamentals**
 * ✅ **GCP Associate Cloud Engineer**
-* 📅 Em estudo: **AZ-104 (Azure Admin)**, **AWS Developer Associate**, **AI-102**
-* 💥 **Curso Hackers do Bem - Especialização Red Team (80h)**
+* ✅  **Curso Hackers do Bem - Especialização Red Team (80h)**
 
   * Invasão completa de sites, SQLi, Docker, enumeração e escalada de privilégios
 
@@ -35,7 +34,7 @@
 
 * 🚪 **Infraestrutura Docker de Simulação**
 
-  * Contêiner Kali + Servidor Web vulnerável para treinamentos Red Team e captura de pacotes com Wireshark
+  * Contêiner Kali + Servidor Web vulnerável para treinamentos Red Team
 
 * 📶 **Captura de Handshake WPA2**
 
